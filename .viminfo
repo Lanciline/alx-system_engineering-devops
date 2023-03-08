@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1678225329,,"wq"
+|2,0,1678289694,,"wq"
 :q!
 |2,0,1678217544,,"q!"
 :q
@@ -36,30 +36,36 @@
 |3,0,32,0,1,0,1678125195,"€kb€kb"
 
 # File marks:
-'0  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
-|4,48,1,0,1678225329,"/zero_day/0x00-vagrant/0-hello_ubuntu"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1678289694,"~/.git/COMMIT_EDITMSG"
 '1  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
-|4,49,1,0,1678225128,"/zero_day/0x00-vagrant/0-hello_ubuntu"
-'2  1  14  /zero_day/0x00-vagrant/README.md
-|4,50,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
-'3  1  106  /zero_day/README.md
-|4,51,1,106,1678224211,"/zero_day/README.md"
+|4,49,1,0,1678225329,"/zero_day/0x00-vagrant/0-hello_ubuntu"
+'2  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
+|4,50,1,0,1678225128,"/zero_day/0x00-vagrant/0-hello_ubuntu"
+'3  1  14  /zero_day/0x00-vagrant/README.md
+|4,51,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
 '4  1  106  /zero_day/README.md
-|4,52,1,106,1678222975,"/zero_day/README.md"
-'5  7  1  /zero_day/README.md
-|4,53,7,1,1678220370,"/zero_day/README.md"
+|4,52,1,106,1678224211,"/zero_day/README.md"
+'5  1  106  /zero_day/README.md
+|4,53,1,106,1678222975,"/zero_day/README.md"
 '6  7  1  /zero_day/README.md
 |4,54,7,1,1678220370,"/zero_day/README.md"
-'7  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,55,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
-'8  3  25  /alx-zero_day/0x03-git/bash/school
-|4,56,3,25,1678218566,"/alx-zero_day/0x03-git/bash/school"
-'9  2  4  /alx-zero_day/0x03-git/bash/school
-|4,57,2,4,1678218234,"/alx-zero_day/0x03-git/bash/school"
+'7  7  1  /zero_day/README.md
+|4,55,7,1,1678220370,"/zero_day/README.md"
+'8  1  2  /alx-zero_day/0x03-git/.gitignore
+|4,56,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
+'9  3  25  /alx-zero_day/0x03-git/bash/school
+|4,57,3,25,1678218566,"/alx-zero_day/0x03-git/bash/school"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1678289694,"~/.git/COMMIT_EDITMSG"
 -'  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
 |4,39,1,0,1678225329,"/zero_day/0x00-vagrant/0-hello_ubuntu"
+-'  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
+|4,39,1,0,1678225329,"/zero_day/0x00-vagrant/0-hello_ubuntu"
+-'  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
+|4,39,1,0,1678225128,"/zero_day/0x00-vagrant/0-hello_ubuntu"
 -'  1  0  /zero_day/0x00-vagrant/0-hello_ubuntu
 |4,39,1,0,1678225128,"/zero_day/0x00-vagrant/0-hello_ubuntu"
 -'  1  14  /zero_day/0x00-vagrant/README.md
@@ -70,6 +76,14 @@
 |4,39,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
 -'  1  14  /zero_day/0x00-vagrant/README.md
 |4,39,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
+-'  1  14  /zero_day/0x00-vagrant/README.md
+|4,39,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
+-'  1  14  /zero_day/0x00-vagrant/README.md
+|4,39,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
+-'  1  14  /zero_day/0x00-vagrant/README.md
+|4,39,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
+-'  1  14  /zero_day/0x00-vagrant/README.md
+|4,39,1,14,1678224285,"/zero_day/0x00-vagrant/README.md"
 -'  1  106  /zero_day/README.md
 |4,39,1,106,1678224211,"/zero_day/README.md"
 -'  1  106  /zero_day/README.md
@@ -86,6 +100,38 @@
 |4,39,1,106,1678224211,"/zero_day/README.md"
 -'  1  106  /zero_day/README.md
 |4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678224211,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
+-'  1  106  /zero_day/README.md
+|4,39,1,106,1678222975,"/zero_day/README.md"
 -'  1  106  /zero_day/README.md
 |4,39,1,106,1678222975,"/zero_day/README.md"
 -'  1  106  /zero_day/README.md
@@ -134,6 +180,38 @@
 |4,39,7,1,1678220370,"/zero_day/README.md"
 -'  7  1  /zero_day/README.md
 |4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
+-'  7  1  /zero_day/README.md
+|4,39,7,1,1678220370,"/zero_day/README.md"
 -'  1  0  /zero_day/README.md
 |4,39,1,0,1678220110,"/zero_day/README.md"
 -'  1  0  /zero_day/README.md
@@ -150,100 +228,22 @@
 |4,39,1,0,1678220110,"/zero_day/README.md"
 -'  1  0  /zero_day/README.md
 |4,39,1,0,1678220110,"/zero_day/README.md"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
--'  1  2  /alx-zero_day/0x03-git/.gitignore
-|4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
+-'  1  0  /zero_day/README.md
+|4,39,1,0,1678220110,"/zero_day/README.md"
 -'  1  2  /alx-zero_day/0x03-git/.gitignore
 |4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
 -'  1  2  /alx-zero_day/0x03-git/.gitignore
@@ -260,6 +260,10 @@
 |4,39,1,2,1678218921,"/alx-zero_day/0x03-git/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1678289689	0
+	"	1	0
 
 > /zero_day/0x00-vagrant/0-hello_ubuntu
 	*	1678225326	0
