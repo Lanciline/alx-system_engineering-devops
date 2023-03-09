@@ -1,0 +1,2 @@
+#!/bin/bash
+telnet tome1.blinkenlights.nl
